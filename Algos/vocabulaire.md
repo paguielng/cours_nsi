@@ -128,9 +128,7 @@ Un graphe est complet si tous les sommets sont adjacents à tous les autres.
 ### Propriétés
 La somme des degrés d’un graphe est paire.
 
-\[
-\sum_{s \in S} \text{deg}(s) = 2.A
-\]
+\[\sum_{s \in S} \text{deg}(s) = 2.A\]
 
 ### Représentation en mémoire - Sommets adjacents
 Dans un graphe orienté, les sommets adjacents n’ont pas la même position : ils peuvent être des prédécesseurs ou des successeurs.
