@@ -1,4 +1,4 @@
-# Tri par sélection :
+# Tri par sÃ©lection :
 
 def tri_selection(tab):
     for i in range(len(tab) - 1):
